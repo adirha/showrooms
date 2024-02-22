@@ -1,0 +1,222 @@
+{
+  "title": "VAN HEUSEN",
+  "navLinks": [
+    [
+      { "title": "Brand Book", "to": "brand-book" },
+      {
+        "title": "Intoduction video",
+        "to": "intoduction-video"
+      }
+    ],
+    [{ "title": "Seasonal Stories", "to": "seasonal-stories" }],
+    [{ "title": "Seasonal Colors", "to": "seasonal-colors" }],
+    [{ "title": "Concept", "to": "concept" }],
+    [
+      { "title": "Product", "to": "traveler" },
+      { "title": "Traveler", "to": "traveler" },
+      { "title": "Never Tuck", "to": "never-tuck" },
+      { "title": "Flex", "to": "flex" },
+      { "title": "Key Looks", "to": "key-looks" }
+    ],
+    [{ "title": "Product Board", "to": "product-board" }]
+  ],
+  "boards": [
+    {
+      "title": "Brand Book",
+      "descriptions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit"
+        }
+      ],
+      "assets": [
+        {
+          "link": "brand-book",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ]
+    },
+    {
+      "descriptions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation"
+        }
+      ],
+      "assets": [
+        {
+          "link": "intoduction-video",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "VIDEO",
+          "descriptions": [
+            {
+              "content": "With a strong foundation in men's dress furnishings, we believe that Van Heusen is one of the best-selling brands of dress shirts in the U.S. It also offers men's and women’s sportswear (casual apparel) and accessories.",
+              "title": "VAN HEUSEN LOOK BOOK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seasonal Stories",
+      "descriptions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit"
+        }
+      ],
+      "assets": [
+        {
+          "link": "seasonal-stories",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": [
+            {
+              "content": "The main themes for the Fall 2020 collection are leather, soil, urban nature, deep yellow and sky blue."
+            },
+            {
+              "content": "The other themes were inspired by the ski mountains,Winter evenings, and matte textures. In different styles and flavors."
+            }
+          ]
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ]
+    },
+    {
+      "title": "Seasonal Colors",
+      "descriptions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit "
+        }
+      ],
+      "assets": [
+        {
+          "link": "seasonal-colors",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ]
+    },
+    {
+      "title": "Concept",
+      "assets": [
+        {
+          "link": "concept",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ],
+      "descriptions": []
+    },
+    {
+      "title": "Products",
+      "assets": [
+        {
+          "link": "traveler",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": [],
+          "title": "Travler"
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "link": "never-tuck",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": [],
+          "title": "Never Tuck"
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "link": "flex",
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": [],
+          "title": "Flex"
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        },
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ]
+    },
+    {
+      "title": "Key Looks",
+      "assets": [
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "link": "key-looks",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ],
+      "descriptions": []
+    },
+    {
+      "title": "Product Board",
+      "assets": [
+        {
+          "url": "https://fastly.picsum.photos/id/15/2500/1667.jpg?hmac=Lv03D1Y3AsZ9L2tMMC1KQZekBVaQSDc1waqJ54IHvo4",
+          "link": "product-board",
+          "assetType": "IMAGE",
+          "descriptions": []
+        }
+      ],
+      "descriptions": []
+    }
+  ]
+}

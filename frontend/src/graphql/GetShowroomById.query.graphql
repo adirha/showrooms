@@ -1,0 +1,10 @@
+mutation CreateUserActivity($input: CreateUserActivityInput!) {
+  createUserActivity(input: $input) {
+    id
+    page
+    eventType
+    data {
+      boardId
+    }
+  }
+}

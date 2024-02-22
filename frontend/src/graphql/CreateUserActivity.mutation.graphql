@@ -1,0 +1,28 @@
+query ShowroomById($id: ID!) {
+  showroomById(id: $id) {
+    id
+    title
+    navLinks {
+      to
+      title
+    }
+    boards {
+      id
+      title
+      descriptions {
+        title
+        content
+      }
+      assets {
+        assetType
+        title
+        link
+        url
+        descriptions {
+          title
+          content
+        }
+      }
+    }
+  }
+}
